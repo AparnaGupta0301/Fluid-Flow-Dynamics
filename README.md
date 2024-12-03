@@ -18,7 +18,7 @@ This project investigates the dynamics of blood flow through the endothelial gly
 ## Repository Contents
 - **SolidWorks Models**: 3D models of glycocalyx structures with and without side chains.
 - **Ansys Simulation Files**: Setups and results for CFD simulations.
-- 
+
 For a detailed description of the project, including methodologies, results, and discussions, refer to the accompanying PDF file: *"Fluid Flow Dynamics of Blood through the Endothelial Glycocalyx."*
 
 ## Future Work
